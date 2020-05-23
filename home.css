@@ -170,8 +170,9 @@ img {
 }
 
 .recommendbody {
-	background: url(recommend.jpeg);
+	background: url(title1.jpeg);
 	background-size: cover;
+	text-align: center;
 
 }
 /*--------------------------------------------ABOUT---------------------------------------------------------------*/
