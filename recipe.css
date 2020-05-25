@@ -31,4 +31,8 @@ img {
 	float: right;
 	margin: 30px;
 	align-items: center;
+	transition-duration: 1s;
+}
+img:hover {
+	transform: rotate(360deg);
 }
